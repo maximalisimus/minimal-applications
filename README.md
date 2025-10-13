@@ -2,7 +2,11 @@
 
 https://github.com/maximalisimus/minimal-applications.git
 
-Release
+## Release
 
 https://github.com/maximalisimus/minimal-applications/releases
+
+## URL
+
+https://maximalisimus.github.io/minimal-applications/
 
