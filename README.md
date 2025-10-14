@@ -10,3 +10,5 @@ https://github.com/maximalisimus/minimal-applications/releases
 
 https://maximalisimus.github.io/minimal-applications/
 
+
+
